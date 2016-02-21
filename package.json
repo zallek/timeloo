@@ -1,5 +1,5 @@
 {
-  "name": "timeline-child",
+  "name": "timeloo",
   "version": "0.0.0",
   "description": "Timeline with children support made with D3",
   "main": "index.js",
